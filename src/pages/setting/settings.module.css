@@ -1,0 +1,16 @@
+.settings_wrapper{
+    max-width: 1100px;
+    margin: 0 auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+@media screen and (max-width:1000px){
+    .settings_wrapper{
+        margin-top:150px;
+    }
+
+    .dropDown_active{
+        margin-top: 340px !important;
+    }
+}
